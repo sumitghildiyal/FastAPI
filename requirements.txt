@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
 langchain
+langchain-community
 openai
 faiss-cpu
 pypdf2
