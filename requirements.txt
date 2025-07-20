@@ -1,8 +1,2 @@
 fastapi
 uvicorn[standard]
-langchain
-langchain-community
-openai
-faiss-cpu
-pypdf2
-python-multipart
